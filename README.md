@@ -24,7 +24,7 @@ The analysis is based on the UCI Bank Marketing dataset containing 45,211 observ
 - **Overall conversion rate:** 11.70%.
 - **Hypothesis testing:** Statistically significant associations were identified for all five investigated factors.
 - **Best-performing model:** Random Forest, with ROC-AUC of 0.7408 and Average Precision of 0.3856 on the test set.
-- **Predictive targeting:** The top 10% of customers ranked by predicted probability achieved a historical conversion rate of 44.36%, compared with 11.70% overall (Lift@10% = 3.79).
+- **Predictive targeting:** The top 10% of customers ranked by predicted probability achieved a historical conversion rate of 44.36%, compared with 11.70% overall (Lift 10% = 3.79).
 
 ## Business Implications
 
