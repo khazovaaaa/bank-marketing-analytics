@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the factors associated with customer conversion in bank marketing campaigns and explores how machine learning can support data-driven customer targeting.
+This project analyzes factors associated with customer conversion in bank marketing campaigns and explores how machine learning can support data-driven customer targeting.
 
 The analysis is based on the UCI Bank Marketing dataset containing 45,211 observations.
 
@@ -34,7 +34,23 @@ However, the findings are based on historical observational data and do not esta
 
 ## Dataset
 
-Source: UCI Machine Learning Repository — Bank Marketing Dataset.
+**Source:** [UCI Machine Learning Repository — Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+
+**Citation:** Moro, S., Rita, P., & Cortez, P. (2014). *Bank Marketing* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5K306
+
+**License:** CC BY 4.0.
+
+The project uses the `bank-full.csv` dataset, which is included in this repository.
+
+## How to Run
+
+1. Open `Bank_Marketing_Conversion_Analysis_and_Predictive_Targeting.ipynb` in Google Colab.
+2. Run the notebook cells in order.
+3. The dataset is loaded directly from this GitHub repository, so no manual CSV upload is required.
+
+## Project Notebook
+
+[View the complete analysis](Bank_Marketing_Conversion_Analysis_and_Predictive_Targeting.ipynb)
 
 ## Project Notebook
 
